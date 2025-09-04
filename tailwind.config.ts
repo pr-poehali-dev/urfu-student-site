@@ -61,7 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'urfu-blue': '#2563EB',
+				'urfu-purple': '#7C3AED',
+				'urfu-green': '#059669',
+				'urfu-red': '#DC2626',
+				'urfu-emerald': '#10B981',
+				'urfu-orange': '#F97316'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
